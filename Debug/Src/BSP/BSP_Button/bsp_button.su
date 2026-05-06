@@ -1,0 +1,5 @@
+../Src/BSP/BSP_Button/bsp_button.c:15:6:button_init	16	static
+../Src/BSP/BSP_Button/bsp_button.c:29:6:button_update	24	static
+../Src/BSP/BSP_Button/bsp_button.c:65:6:button_is_pressed	16	static
+../Src/BSP/BSP_Button/bsp_button.c:75:6:button_was_pressed	24	static
+../Src/BSP/BSP_Button/bsp_button.c:90:13:button_read_raw	24	static

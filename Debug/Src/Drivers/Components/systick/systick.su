@@ -1,0 +1,4 @@
+../Src/Drivers/Components/systick/systick.c:14:6:systick_init	16	static
+../Src/Drivers/Components/systick/systick.c:23:10:systick_get_tick	4	static
+../Src/Drivers/Components/systick/systick.c:28:6:systick_delay_ms	24	static
+../Src/Drivers/Components/systick/systick.c:36:6:systick_irq_handler	4	static

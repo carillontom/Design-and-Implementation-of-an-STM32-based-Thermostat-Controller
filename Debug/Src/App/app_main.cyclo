@@ -1,0 +1,7 @@
+../Src/App/app_main.c:124:6:app_main_init	1
+../Src/App/app_main.c:147:6:app_main_run	1
+../Src/App/app_main.c:155:6:app_handle_buttons	2
+../Src/App/app_main.c:167:13:app_handle_temperature	4
+../Src/App/app_main.c:194:6:app_handle_fsm	9
+../Src/App/app_main.c:232:6:app_handle_control	2
+../Src/App/app_main.c:240:6:app_update_lcd	6

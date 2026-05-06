@@ -1,0 +1,6 @@
+../Src/BSP/BSP_Fan/bsp_fan.c:13:6:fan_init	16	static
+../Src/BSP/BSP_Fan/bsp_fan.c:23:6:fan_on	16	static
+../Src/BSP/BSP_Fan/bsp_fan.c:42:6:fan_off	16	static
+../Src/BSP/BSP_Fan/bsp_fan.c:61:6:fan_toggle	16	static
+../Src/BSP/BSP_Fan/bsp_fan.c:78:13:fan_get_state	16	static
+../Src/BSP/BSP_Fan/bsp_fan.c:88:13:fan_write_pin	16	static

@@ -1,0 +1,4 @@
+../Src/Drivers/Components/dio/stm32/dio.c:11:6:do_set	4
+../Src/Drivers/Components/dio/stm32/dio.c:22:6:do_reset	4
+../Src/Drivers/Components/dio/stm32/dio.c:33:6:do_toggle	5
+../Src/Drivers/Components/dio/stm32/dio.c:52:6:do_get_status	5

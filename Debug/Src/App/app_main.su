@@ -1,0 +1,7 @@
+../Src/App/app_main.c:124:6:app_main_init	8	static
+../Src/App/app_main.c:147:6:app_main_run	8	static
+../Src/App/app_main.c:155:6:app_handle_buttons	16	static
+../Src/App/app_main.c:167:13:app_handle_temperature	16	static
+../Src/App/app_main.c:194:6:app_handle_fsm	8	static
+../Src/App/app_main.c:232:6:app_handle_control	8	static
+../Src/App/app_main.c:240:6:app_update_lcd	16	static
